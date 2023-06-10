@@ -28,4 +28,3 @@ for i in range(part2):#this the same method up there  represent  20 % from 100% 
 generate = "".join(generate[0:]) #this will make the generate with out type = list 
 
 print(generate)#this will print the generate result
-#idea rights : codezelia
